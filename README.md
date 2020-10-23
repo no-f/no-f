@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 -->
 ##
-https://github.com/no-f/no-f/blob/main/cover.jpg
+<p align="center" >
+   <img src="https://github.com/no-f/no-f/blob/main/cover.jpg">
+</p>
+
 ##
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=no-f&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=no-f&theme=gruvbox&hide=ipynb,html&layout=compact)
