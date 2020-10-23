@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 
 
 -->
-[![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=${no-f}&hide=ipynb,html&layout=compact);
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=no-f&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
