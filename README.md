@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ##
 <p align="center" >
-   <img src="https://github.com/no-f/no-f/blob/main/cover.jpg">
+   <img src="https://github.com/no-f/no-f/blob/main/cover.jpg" width="150">
 </p>
 
 ##
