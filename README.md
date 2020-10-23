@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+<img src="https://github.com/no-f/no-f/blob/main/cover.jpg" width="150">
 -->
 ##
 <p align="center" >
-   <img src="https://github.com/no-f/no-f/blob/main/cover.jpg" width="150">
+   <img src="https://github.com/no-f/no-f/blob/main/%E5%86%851.jpg" width="800">
+   
 </p>
 
 ##
