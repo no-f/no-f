@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-&hide=ipynb,html&layout=compact
-<img src="https://github.com/no-f/no-f/blob/main/%E5%86%851.jpg" width="800">
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=no-f&theme=gruvbox&hide=ipynb,html&layout=compact)
 
 -->
 
@@ -34,6 +33,6 @@ Here are some ideas to get you started:
 
 ##
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=no-f&theme=gruvbox&hide=ipynb,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=no-f&theme=gruvbox&hide=ipynb,html&layout=compact)
+
 
 
